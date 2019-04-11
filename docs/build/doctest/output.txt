@@ -1,0 +1,12 @@
+Results of doctest builder run on 2019-04-11 08:39:12
+=====================================================
+
+Document: serverMultiprocessusComplet
+-------------------------------------
+
+Doctest summary
+===============
+    0 tests
+    0 failures in tests
+    0 failures in setup code
+    0 failures in cleanup code
